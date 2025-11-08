@@ -34,8 +34,8 @@ A production-ready Retrieval-Augmented Generation (RAG) chatbot built with Next.
 
 1. **Clone or download this repository**
 ```bash
-git clone <your-repo-url>
-cd rag-chatbot
+git clone https://github.com/hemanthvallapani/ai-rag-chatbot.git
+cd ai-rag-chatbot
 ```
 
 2. **Install dependencies**
